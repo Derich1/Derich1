@@ -23,10 +23,6 @@ Desenvolvedor Full Stack | Java, React, TypeScript, Spring Boot
 - [Ecommerce](https://github.com/Derich1/E-Commerce)
 - [Plataforma de Cursos](https://github.com/Derich1/PlataformaCursos)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Derich1&theme=react-dark)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Derich1&theme=react-dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Derich1&theme=radical)
 
 
