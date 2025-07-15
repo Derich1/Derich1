@@ -16,8 +16,6 @@ Desenvolvedor Full Stack | Java, React, TypeScript, Spring Boot
 
 🚀 Java | ⚛ React | 💻 TypeScript | ☁ AWS
 
-![Working GIF](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
-
 ---
 
 ## Principais Projetos
