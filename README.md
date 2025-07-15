@@ -20,11 +20,11 @@ Desenvolvedor Full Stack | Java, React, TypeScript, Spring Boot
 
 ## Principais Projetos
 
-- [Meu Ecommerce Full Stack](https://github.com/Derich1/E-Commerce)
+- [Ecommerce](https://github.com/Derich1/E-Commerce)
 - [Plataforma de Cursos](https://github.com/Derich1/PlataformaCursos)
 
-![Derich's GitHub stats](https://github-readme-stats.vercel.app/api?username=derichrosario&show_icons=true&theme=radical)
+![Derich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derich1&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=derichrosario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Derich1&theme=radical)
 
 
